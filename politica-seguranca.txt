@@ -1,0 +1,62 @@
+Política de Segurança da Informação
+
+I - Classificação da Informação
+1-Informação Pública: É toda informação que pode ser acessada por usuários da organização, clientes, fornecedores, prestadores e público em geral.
+2-Informação Interna: É toda informação que só pode ser acessada por funcionários da organização. Possui grau de confidencialidade.
+3-Informação Confidencial: É toda informação que pode ser acessada por usuários da organização e por parceiros da organização.
+4-Informação Restrita: É toda informação que pode ser acessada somente por usuários da organização explicitamente indicado pelo nome ou por área a que pertence.
+
+II - Dados Pessoais de Funcionários
+Todos os dados pessoais de funcionários são considerados dados confidenciais, que não serão usados para fins diferentes daqueles para os quais foram coletados e não serão transferidos para terceiros.
+
+III - Programas Ilegais
+É terminantemente proibido o uso de programas ilegais (PIRATAS) na empresa. Todas as soluções e aplicativos são Open Source e na necessidade de qualquer nova ferramenta o Setor de Informática deve ser comunicado, visando garantir a correta aplicação desta diretriz.
+
+IV - Permissões e Senhas
+O Setor de Informática fará o cadastramento e informará ao novo usuário qual será a sua primeira senha, a qual deverá, obrigatoriamente, ser alterada a cada 30 dias. O Setor de Informática recomenda que as senhas tenham sempre um mínimo de 8 caracteres alfanuméricos.
+
+V - Compartilhamento de Pastas e Dados
+É de obrigação dos usuários rever periodicamente todos os compartilhamentos existentes em suas estações de trabalho e garantir que dados considerados confidenciais e/ou restritos não estejam disponíveis a acessos indevidos. Todos os dados da empresa devem estar no compartilhamento de rede no servidor de arquivos ou na nuvem. Nenhum tipo de dado deve estar nas estações de trabalho.
+
+VI - Cópia de Segurança do Sistema Integrado e Servidores de Rede
+Cópias de Segurança do sistema integrado e servidores de rede são de responsabilidade do Setor de Informática e deverão ser feitas diariamente.
+
+VII - Segurança e Integridade do Banco de Dados
+O gerenciamento do Banco de Dados é responsabilidade exclusiva do Setor de Informática, assim como a manutenção, alteração e atualização de equipamentos e programas.
+
+VIII - Admissão/Demissão de Funcionários/Temporários/Estagiários
+O setor de Recrutamento e Seleção de Pessoal deverá informar ao Setor de Informática, toda e qualquer movimentação de temporários e/ou estagiários, e admissão/demissão de funcionários, para que os mesmos possam ser cadastrados ou excluídos no sistema. No caso de demissão, o setor de Recursos Humanos deverá comunicar o fato o mais rapidamente possível ao Setor de Informática, para que o funcionário demitido seja excluído do sistema.
+Nenhum funcionário, estagiário ou temporário, poderá ser contratado, sem ter expressamente concordado com esta política.
+
+IX - Transferência de Funcionários
+Quando um funcionário for promovido ou transferido de seção ou gerência, o setor de cargos e salários deverá comunicar o fato ao Setor de Informática, para que sejam feitas as adequações necessárias para o acesso referido ao sistema informatizado da empresa.
+
+X - Cópias de Segurança de Arquivos Individuais
+É de responsabilidade dos próprios usuários a elaboração de cópias de segurança de textos, planilhas, mensagens eletrônicas, desenhos e outros arquivos ou documentos, desenvolvidos pelos funcionários, em suas estações de trabalho, e que não sejam considerados de fundamental importância para a continuidade dos negócios da empresa. Diariamente é realizado uma limpeza nas estações de trabalho na pasta /home/usuario.
+
+XI - Propriedade Intelectual
+É de propriedade da empresa, todos os "designs", criações ou procedimentos desenvolvidos por qualquer funcionário durante o curso de seu vínculo empregatício com a empresa.
+
+XII - Uso da Internet
+O acesso à Internet será autorizado para os usuários que necessitarem da mesma para o desempenho das suas atividades profissionais na empresa. O uso da Internet será monitorado pelo Setor de Informática, com o registro de logs que informam qual usuário está conectado, o tempo que usou a Internet e qual página acessou. Os usuários devem se assegurar de que não estão executando ações que possam infringir direitos autorais, marcas, licença de uso ou patentes de terceiros.
+
+XIII - Uso do e-Mail
+O correio eletrônico fornecido pela empresa é um instrumento de comunicação interna e externa para a realização do negócio da empresa. O uso do correio eletrônico é pessoal e o usuário é responsável por toda mensagem enviada pelo seu endereço. O Setor de Informática poderá, visando evitar a entrada de vírus na empresa, bloquear o recebimento de e-mails provenientes de listas negras.
+
+XIV - Necessidade de Novos Sistemas, Aplicativos e/ou Equipamentos
+Qualquer necessidade de novos programas ou de novos equipamentos de informática deverá ser discutida com o responsável pelo Setor de Informática.
+
+XV - Uso de Computadores Pessoais de Propriedade da Empresa
+O usuário não deve alterar a configuração do equipamento recebido. É de responsabilidade de cada usuário assegurar a integridade do equipamento, a confidencialidade e disponibilidade da informação contida no mesmo. 
+
+XVI - Responsabilidades dos Gerentes/Supervisores
+Os gerentes e supervisores são responsáveis pelas definições dos direitos de acesso de seus funcionários aos sistemas e informações da empresa, cabendo a eles verificarem se os mesmos estão acessando exatamente as rotinas compatíveis com as suas respectivas funções, usando e conservando adequadamente os equipamentos, e mantendo cópias de segurança de seus arquivos individuais, conforme estabelecido nesta política.
+
+XVII - Sistema de Telecomunicações
+O controle de uso, a concessão de permissões e a aplicação de restrições em relação aos ramais telefônicos da empresa, assim como, o uso de eventuais ramais virtuais instalados nos computadores, é responsabilidade do Setor de Informática, de acordo com as definições da diretoria da empresa.
+
+XVIII - Uso de Anti-Vírus
+Todo arquivo recebido/obtido através do ambiente Internet deve ser verificado por programa antivirus. O usuário não pode em hipótese alguma, desabilitar o programa antivirus instalado nas estações de trabalho.
+
+XIX - Penalidades
+O não cumprimento da Política de Segurança da Informação implica em falta grave e poderá resultar nas seguintes ações: advertência formal, suspensão, rescisão do contrato de trabalho, outra ação disciplinar e/ou processo civil ou criminal.
